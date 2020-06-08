@@ -1,7 +1,7 @@
 # EventFinder
 This app comes with a idea of finding different types of events around you Quickly.
 
-#TO USE THIS FOLLOW THE STEPS WRITTEN BELOW....
+###### TO USE THIS APP FOLLOW THE STEPS WRITTEN BELOW....
 
 ## step:1(To install all the packages)
 ```bash
